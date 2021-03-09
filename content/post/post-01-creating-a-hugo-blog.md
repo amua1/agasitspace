@@ -1,8 +1,8 @@
 ---
 author: "Aga's IT Space"
 date: "2021-02-22" 
-linktitle: "How to: Create and hosting a HUGO blog using GitHub and Netlify"
-title: "How To: Create and Host a HUGO blog using GitHub and Netlify"
+linktitle: "Tutorial 1: Create and hosting a HUGO blog using GitHub and Netlify"
+title: "Tutorial 1: Create and Host a HUGO blog using GitHub and Netlify"
 weight: 10
 ---
 
